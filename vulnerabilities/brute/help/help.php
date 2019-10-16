@@ -1,5 +1,5 @@
 <div class="body_padded" style= "direction: rtl">
-	<h1>راهنما - حمله بی رحمانه )ورود)</h1>
+	<h1>راهنما - حمله بی رحمانه ghgfhgf</h1>
 
 	<div id="code">
 	<table width='100%' bgcolor='white' style="border:2px #C0C0C0 solid">
